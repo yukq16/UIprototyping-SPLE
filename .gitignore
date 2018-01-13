@@ -1,0 +1,6 @@
+descrition.tex
+*.aux
+*.dvi
+*.log
+*.out
+*.pdf
