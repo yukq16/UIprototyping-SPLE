@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{Middleman}
+ Middleman: Build static websites with an easy-to-use framework, Middleman
+  (online), \urle{https://middlemanapp.com} \refdatee{2018-02-12}.
+
+\bibitem{SWEST}
+SWEST: 組込みシステム技術に関するサマーワークショップ，SWEST実行委員会（オンライン），\urlj{https://swest.toppers.jp}
+  \refdatej{2018-02-12}.
+
+\bibitem{FORM}
+Kang, K.~C., Kim, S., Lee, J., Kim, K., Shin, E. and Huh, M.: FORM: A
+  Feature-oriented Reuse Method with Domain-specific Reference Architectures,
+  {\em Ann. Softw. Eng.},  Vol.~5, No.~1, pp.\ 143--168 (online),
+  \urle{http://dl.acm.org/citation.cfm?id=590631.590645} (1998).
+
+\bibitem{SPLE}
+Pohl, K., B\"{o}ckle, G. and Linden, F. J. v.~d.: {\em Software Product Line
+  Engineering: Foundations, Principles and Techniques}, Springer-Verlag New
+  York, Inc., Secaucus, NJ, USA (2005).
+\newblock 邦訳: 林 好一, 吉村 健太郎, 今関 剛 翻訳,
+  ソフトウェアプロダクトラインエンジニアリング:
+  ソフトウェア製品系列開発の基礎と概念から技法まで, エスアイビーアクセス, 2009.
+
+\bibitem{InfoDesign}
+情報デザインフォーラム，山崎和彦，浅野　智，上平崇仁（編）\：情報デザインの教室:
+  仕事を変える、社会を変える、これからのデザインアプローチと手法，丸善 (2010).
+
+\bibitem{InfoDesignWorkshop}
+山崎和彦，浅野　智，安藤昌也，上平崇仁，木村博之，小池星多，原田　泰，脇坂善則\：情報デザインのワークショップ，丸善
+  (2014).
+
+\end{thebibliography}

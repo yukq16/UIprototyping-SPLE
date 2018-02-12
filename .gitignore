@@ -4,3 +4,7 @@ description.tex
 *.log
 *.out
 *.pdf
+.DS_Store
+ipsj/
+*.bbl-e
+*.blg
